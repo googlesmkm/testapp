@@ -1,4 +1,4 @@
 testapp
 =======
 
-test application
+test sample application
